@@ -19,7 +19,7 @@ However, Moonlander2 have operational challenges during base difficulty reset da
 Scrypt randomSpike will cause 50% of found blocks as "rejected" for the USB ASIC on solo mining mode. 
 bfgminer is software recommended from vendor for Futurebit Moondlaner 2.  bfgminer software assumes regular scrypt coins, not like NENG on scrypt randomSpike alogrithm.  High rejection will confuse bfgminer and cause the "ALL POOL DEAD" error triggered. 
  
-Once the USB ASIC on bifgminer is on "ALL POOL DEAD" mode, all the mine stops unless user reset the USB ASIC by killing the bfgminer and restart bfgminer manually. 
+Once the USB ASIC on bifgminer is on "ALL POOL DEAD" mode, all the mining stops unless user reset the USB ASIC by killing the bfgminer and restart bfgminer manually. 
 
 
 ## Workaround: rotate solo mining on two full nodes 
