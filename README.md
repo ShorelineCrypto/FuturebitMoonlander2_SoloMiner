@@ -31,9 +31,8 @@ two full nodes on solo mining mode.
 So far the "ALL POOL DEAD" is resolved and yield is signifcantly higher than other methods. 
 
 
-## Alternative: 1 solo mining one fulld node, + 1 pool, rotate
+## Alternative: rotate1 on solo mining one full node + 1 mining pool
 
-Alternatively, one can set up 1 mining pool + 1 solo full node for the ASIC to rotate every 1 minute. 
- The 1 mining pool result is not as good as the 2 solo mode setup, but still rotate on 1 solo mining 
-full node can solve the "ALL POOL DEAD" problem. 
+Alternatively, one can set up 1 mining pool + 1 solo mining full node for the ASIC to rotate every 1 minute. 
+ The 1 mining pool result is not as good as the 2 solo mode setup, but still rotate on mixed style can solve the "ALL POOL DEAD" problem. 
 
