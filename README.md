@@ -9,7 +9,7 @@ Linux scripts provided for best practice of USB ASIC on mining NewEnglandcoin (N
 ## Problems for USB ASIC solo mining on  NewEnglandcoin (NENG)
 
 Solo mining is recommended for USB ASIC such as Futurebit Moonlander2 during base difficulty reset day. 
-One such USB ASIC can mine up to 5 millions NENG in one day. 
+USB ASIC like Moonlander2 can mine up to 5 to 6 millions NENG in one day. 
 
 However, Moonlander2 have operational challenges during base difficulty reset day such as frequent 
 "All Pool Dead" error.  
