@@ -1,0 +1,8 @@
+rpcuser=wallet5user
+rpcpassword=wallet5passwd
+rpcallowip=127.0.0.1
+rpcport=8378
+server=1
+daemon=1
+addnode=144.202.22.19
+addnode=207.180.248.171
