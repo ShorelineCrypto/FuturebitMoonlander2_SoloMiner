@@ -37,3 +37,5 @@ So far the "ALL POOL DEAD" is resolved and yield is signifcantly higher than oth
 Alternatively, one can set up 1 mining pool + 1 solo mining full node for the ASIC to rotate every 1 minute. 
  The 1 mining pool result is not as good as the 2 solo mode setup, but still rotate on mixed style can solve the "ALL POOL DEAD" problem. 
 
+## Experimental feature to boost reward on reset
+"--expiry 10" can boost more rewards on reset. However, several "ALL POOL DEAD" errors should be expected on reset.  This is not recommended default feature because it does require human intervention and watching the operation on two rotating nodes solo mining. When "ALL POOL DEAD" error hit, the bfgminer needs to be killed and restarted manually.   
