@@ -1,12 +1,12 @@
 # Best Practice for Futurebit Moonlander2 USB ASIC on solo mining mode 
 
-Linux scripts provided for best practice of USB ASIC on mining NewEnglandcoin (NENG). 
+Linux scripts provided for best practice of USB ASIC on mining Nengcoin (NENG). 
 
 * Two wallets running scripts.
 * mining scripts for rotating on two full nodes, or 1 full node + 1 pool
-* Two configuration files for "newenglandcoin.conf" in two different folders for the two full nodes.
+* Two configuration files for "nengcoin.conf" in two different folders for the two full nodes.
 
-## Problems for USB ASIC solo mining on  NewEnglandcoin (NENG)
+## Problems for USB ASIC solo mining on  Nengcoin (NENG)
 
 Solo mining is recommended for USB ASIC such as Futurebit Moonlander2 during base difficulty reset day. 
 USB ASIC like Moonlander2 can mine between 2 to 3 millions NENG in one day on solo mining mode. 
