@@ -31,6 +31,14 @@ two full nodes on solo mining mode.
 
 So far the "ALL POOL DEAD" is resolved and yield is signifcantly higher than other methods. 
 
+## Solo Mining on Two Rotating Nodes works on Windows10
+
+Solo mining setup for USB ASIC on two rotating nodes was found to be good for windows10 too for the
+same theory.  
+
+## Extra Benefit of solo mining for USB ASIC on two Rotating Nodes
+
+Another benefit is that two rotating nodes will give miner more rewards, more than one single node setup.  The reason for "more reward" on two rotating nodes is that USB ASIC can mine into cheetah diff occasionally and two rotating nodes setup can help USB ASIC to mine into Cheetah diff blocks where traditionally only CPU miners on computers or android phones can mine those blocks.
 
 ## Alternative: rotate on 1 solo mining one full node + 1 mining pool
 
