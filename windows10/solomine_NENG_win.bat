@@ -1,0 +1,1 @@
+bfgminer.exe --scrypt --url=127.0.0.1:port1  -u  user1  -p pw  --url=127.0.0.1:port2 -u user2 -p  pw  --retries  -1  --rotate 1 --no-stratum  --net-delay -S \\.\COM3 -S \\.\COM4 --set MLD:clock=600 --no-submit-stale
