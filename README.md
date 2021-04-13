@@ -1,10 +1,16 @@
 # Best Practice for Futurebit Moonlander2 USB ASIC on solo mining mode 
 
-Linux scripts provided for best practice of USB ASIC on mining Nengcoin (NENG). 
+Windows10/Linux scripts provided for best practice of USB ASIC on mining Nengcoin (NENG). 
 
 * Two wallets running scripts.
 * mining scripts for rotating on two full nodes, or 1 full node + 1 pool
 * Two configuration files for "nengcoin.conf" in two different folders for the two full nodes.
+
+
+## Solo Mining on Two Rotating Nodes works on Windows10
+
+Sefia provided windows10 bat script under "window10" folder here. Solo mining setup for USB ASIC on two rotating nodes was found to be good for windows10 too for the
+same theory below.  
 
 ## Problems for USB ASIC solo mining on  Nengcoin (NENG)
 
@@ -31,10 +37,6 @@ two full nodes on solo mining mode.
 
 So far the "ALL POOL DEAD" is resolved and yield is signifcantly higher than other methods. 
 
-## Solo Mining on Two Rotating Nodes works on Windows10
-
-Solo mining setup for USB ASIC on two rotating nodes was found to be good for windows10 too for the
-same theory.  
 
 ## Extra Benefit of solo mining for USB ASIC on two Rotating Nodes
 
