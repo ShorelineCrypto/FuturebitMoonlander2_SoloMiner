@@ -1,4 +1,11 @@
-# Best Practice for Futurebit Moonlander2 USB ASIC on solo mining mode 
+# Depreciated after NENG v2.x Release
+
+Currently on v2.2.0 wallet with 3 soft forks, this repos method no longers works because new version v2.x wallet no longer can mine into 
+wallet full node directly on bfgminer software. Further more, old version wallet is only compatible for full node syncing, but not for mining due to 3 soft forks BIPS. 
+
+Current recommendation on Fureturebit Moonlander2 USB ASIC:  either use pool solo mode mining or set up your own private pool for ASIC.
+
+## Best Practice for Futurebit Moonlander2 USB ASIC on solo mining mode 
 
 Windows10/Linux scripts provided for best practice of USB ASIC on mining Nengcoin (NENG). 
 
